@@ -20,6 +20,8 @@ lxml = "*"
 tqdm = "*"
 ipywidgets = "*"
 pyldavis = "*"
+pexpect = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.7"
