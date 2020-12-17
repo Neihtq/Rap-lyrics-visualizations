@@ -74,7 +74,7 @@ This criticism of the media has been always accompanying for years but now we Ra
 
 Given the long history of Rap Music and how recent the aforementioned event is, one thoroughly consider whether the music itself, especially the text, has changed.
 
-This Project scraped the lyrics from genius.com from 12 artists from different eras of Hip-Hop and analyzed them in terms of chosen words, statistics, sentiment and topics.
+This Project scraped the lyrics from genius.com from 12 artists from different eras of Hip-Hop and analyzed them in terms of chosen words, statistics, sentiment and topics. Each Notebook contains my own explainations of the analysis steps and also some resources about the theory behind the analysis.
 
 ### Built With
 
