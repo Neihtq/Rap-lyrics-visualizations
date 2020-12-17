@@ -110,10 +110,10 @@ With `pipenv` we can easily install all dependencies listed above:
 ### The Notebooks
 
 The notebooks contain text cells which explain each analysis step.
-* [Data Preprocessing]()
-* [Exploratory Analysis]()
-* [Sentiment Analysis]()
-* [Topic Modeling]()
+* [Data Preprocessing](https://github.com/Neihtq/Rap-lyrics-visualizations/blob/master/1.%20Data%20Preprocessing.ipynb)
+* [Exploratory Analysis](https://github.com/Neihtq/Rap-lyrics-visualizations/blob/master/2.%20Exploratory%20Analysis.ipynb)
+* [Sentiment Analysis](https://github.com/Neihtq/Rap-lyrics-visualizations/blob/master/3.%20Sentiment.ipynb)
+* [Topic Modeling](https://github.com/Neihtq/Rap-lyrics-visualizations/blob/master/4.%20Topic%20Modeling.ipynb)
 
 
 <!-- USAGE EXAMPLES -->
